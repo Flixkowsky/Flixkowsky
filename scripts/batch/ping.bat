@@ -1,0 +1,1 @@
+wt ping 192.168.178.1 -w 75 -t; split-pane ping web.de -w 75 -t
